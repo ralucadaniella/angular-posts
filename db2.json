@@ -1,0 +1,13 @@
+{
+  "posts": [],
+  "users": [],
+  "comments": [
+    {
+      "title": "Comment title 16",
+      "description": "Common description for a comment",
+      "author": "Teo",
+      "createdAt": "16-05-2021",
+      "id": 1
+    }
+  ]
+}
